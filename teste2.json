@@ -1,0 +1,10 @@
+{
+"Agenda":
+	{"Everton":
+		[
+			{"nome":"namorada","telefone":"345345134","email":"namorada@love.com"},
+			{"nome":"amiga","telefone":"478467","email":"amiga@friend.com"}	
+		
+		]
+	}
+}

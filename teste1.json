@@ -1,0 +1,7 @@
+{
+  "objetos":
+    {"nome":"everton","email":"everton@eu.com","telefone":"12345134"},
+  "numero":123,
+  "bool":true,
+  "array":[0,1,2]
+}
